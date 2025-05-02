@@ -1,4 +1,4 @@
-Sun rises from|east
-Water freezes at|0
-Smallest prime number|2
-Largest mammal|blue whale
+Sun rises from | east
+Water freezes at | 0
+Smallest prime number | 2
+question | answer
